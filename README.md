@@ -10,6 +10,10 @@ The Weatherstack API requires an an `access_key`. For security and best practice
 this framework now loads the API key from environment variables, typically via a `.env` file.
 You can get the same from https://weatherstack.com/ and paste in `{YOUR_API_KEY}` in `.env` file.
 
+## Note:
+
+Please run `pip install -e .` and `pip install -r requirements.txt` in venv before running the tests.
+
 ## Test cases:
 |Method|Test case|
 |---|---|
