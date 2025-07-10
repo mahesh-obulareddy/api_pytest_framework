@@ -1,4 +1,0 @@
-api
-config
-schemas
-utils
